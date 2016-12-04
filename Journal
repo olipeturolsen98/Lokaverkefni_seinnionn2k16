@@ -5,32 +5,36 @@ Start date - 16.11.2016
 
 
 21.11.2016
-Database settur upp og haldið áfram með að ákveða hvernig leik eigi að búa til.
+við ákváðum að gera leik með database sem tekur inn upplýsingar þegar leikurinn er kláraður og þá á það að fara 
+inn í databaseinn. þannig að það sem við byrjuðum á að gera var að setja database upp og 
+halda áfram með að ákveða hvernig leik við ætluðum að búa til.
+
 Eftirfarandi hugmyndir sem eru fremstar eins og er:
 ------------------------------------------------------------------------------
-Space Invaders (halda áfram og þróa betur)
-Tetris
+Space Invaders (halda áfram og þróa betur) 
+Tetris (Það kom svo í ljós að þessi var fyrir valinu og tókum og okkur saman og hófum strax að tékka hvernig hann var gerður)
 Pacman
 Þrauta leikir (course-, mouse games)
 ------------------------------------------------------------------------------
 
 22.11.2016
-Haldið áfram með hugmyndir og skoðað ýmsa leiki á netinu. Byrjað að skrifa upp byrjun á kóða á leiknum.
+Við héldum áfram með hugmyndir og skoðað ýmsa leiki á netinu. 
+Ákváðum að byrja og tékka kóðum á sumum leikjunum þarna úti í heimi netsins.
 
 23.11.2016
-Haldið áfram með leikinn, forritað í python, leitaði af lausnum á netinu.
+Ákváðum að taka Tetris að okkur og gera snilldar leik út úr honum. Hann var forritaður í python, leitaði af lausnum á netinu.
 
 24.11.2016
-Reynt að finna út hvernig á að tengja python pygame við database.
+Reynt að finna út hvernig á að tengja python pygame við database. Það var smá erfitt en með góðri hjálp þá náðum við þessu loksins.
 
 25.11.2016
-Sama og í gær.
+Hérna vorum við ennþá að reyna að skríða áfram með tenginguna.
 
 28.11.2016
 Hafði smá tíma bara til að reyna að finna út hvernig ætti að tengja databasinn við leikinn.
 
 29.11.2016
-Unnið við að setja loka "touchið" við tetris leikinn
+Núna vorum að að verða búnir með leikinn og þá er það bara databasetengingin og hugmynd sprakk inní mér með að gera highscore töflu.
 
 1.12.2016
 Database tenging loksins tengist rétt og virkar. Unnið við að tengja almennilega við og senda gögn í gegn
@@ -40,7 +44,7 @@ Haldið áfram með sama, vinna með tengingu á milli database og python. Búa 
 notkun og virkni inni í pyhton
 
 3.12.2016
-Hugmynd að reyna að setja inn highscore í leikinn.
+Reyna að setja inn highscore í leikinn.
 
 4.12.2016 
 lesa yfir kóðan, hreinsa og gera flottann ;)
